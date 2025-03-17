@@ -11,4 +11,4 @@ This directory contains code related to the EMODPS algorithm. 1- SWMM.py: Define
 
 DDPG:
 
-This directory includes codes related to training and testing DDPG algorithm.
+Similar process to EMODPS. This directory includes codes related to training and testing DDPG algorithm. SWMM models are defined inside of each of these scripts. Same simulations were used to train and test the DDPG model.
